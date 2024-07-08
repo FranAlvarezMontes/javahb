@@ -11,7 +11,7 @@ import java.util.UUID;
  
 public class Pizza extends EntityBase{
  
-    private static final double PROFIT = 1.2D;
+    private static final double PROFIT = 1.2D;  
     private String name;   
     private String description;
     private String url;
